@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1514140574 source:d:\tubes std fix banget\tubes\main.cpp
+	<iostream>
+
+1586694634 source:d:\tubes std fix banget\tubes\parent.cpp
+	"listParent.h"
+	<iostream>
+	<string>
+
+1586693320 d:\tubes std fix banget\tubes\listparent.h
+	<iostream>
+
+1586694904 source:d:\tubes std fix banget\tubes\child.cpp
+	"listChild.h"
+	<iostream>
+
+1586694938 d:\tubes std fix banget\tubes\listchild.h
+	<string>
+	<iostream>
+
+1586690624 source:d:\tubes std fix banget\tubes\relasi.cpp
+	"listRelasi.h"
+	<iostream>
+
+1586688476 d:\tubes std fix banget\tubes\listrelasi.h
+	<string>
+	<iostream>
+	"listChild.h"
+	"listParent.h"
+
